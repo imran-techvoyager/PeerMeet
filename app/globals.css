@@ -6,11 +6,7 @@
 @theme{
   --color-dark-1: #1C1F2E;
   --color-dark-2: #161925;
-  
-  --colors-dark: {
-    1: var(--color-dark-1);
-    2: var(--color-dark-2);
-  }
+  --color-blue-1: #0E78F9;
 }
 
 @theme inline {
