@@ -11,7 +11,7 @@ const Navbar = () => {
            <p className='text-[26px] font-extrabold text-white max-sm:hidden'>PeerMeet</p>
         </Link>
 
-        <div className='flex justify-between gap-5'>
+        <div className='flex justify-between items-center gap-5'>
            {/* clerk-user management */}
 
            <MobileNav />
